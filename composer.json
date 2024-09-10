@@ -1,0 +1,18 @@
+{
+    "name": "blendimisini/coding-test",
+    "require": {
+        "phpunit/phpunit": "^11.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Blendimisini\\CodingTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Blendi Misini",
+            "email": "blendimisini@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
